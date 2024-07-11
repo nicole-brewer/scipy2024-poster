@@ -1,6 +1,7 @@
-# Growing the Jupyter4Science Knowledge Base: notebooks as scientific workflows, web apps, publications, reproducible dissertations, and more
+# Growing the Jupyter4Science Knowledge Base
+#### notebooks as scientific workflows, web apps, publications, reproducible dissertations, and more
 
-> What is Jupyter4Science? This poster discusses the past, present, and future of the Jupyter4Science website. I introduce myself, discuss how the SciPy conference has influenced the development of the site, and lay out my vision for the future, including starting collaborations and building a community!
+> This poster discusses the past, present, and future of the Jupyter4Science website. I introduce myself, discuss how the SciPy conference has influenced the development of the site, and lay out my vision for the future, including starting collaborations and building a community! **Please do reach out to me at [nbrewer6@asu.edu](mailto:nbrewer6@asu.edu)**
 
 ## Who am I? 
 
@@ -71,3 +72,6 @@ There are currently two ways I've set up processes to contribute to the site, bu
 - free online tutorials
 - open education resources
 - entrepreneurship and consulting
+
+### Reaching Out
+If any of this is interesting to you, I would love it if you **reached out at [nbrewer6@asu.edu](mailto:nbrewer6@asu.edu)**. Cheers!
