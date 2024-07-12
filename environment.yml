@@ -1,0 +1,7 @@
+name: scipy2024-poster
+channels:
+  - fastai
+  - conda-forge
+dependencies:
+  - jupyterlab
+  - nbdev
